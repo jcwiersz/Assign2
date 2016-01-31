@@ -1,4 +1,5 @@
-public static void main(String[] args) {
+public class Ninety_Nine_Bottles_Of_Beer_On_The_Wall {
+   public static void main(String[] args) {
 
 
         int bottlesOfBeer = 99; //Initial Number of Bottles to begin with
@@ -21,6 +22,7 @@ public static void main(String[] args) {
 		   } else {
 		      System.out.println("No more bottles of beer on the wall\n");
 		   }
-																			        } //End of Song loop
-																		    } // End of Ninety_Nine_Bottles_of_Beer
+	        } //End of While Song loop
+	    } // End of Main
+ } // End of Ninety_Nine_Bottles_of_Beer
 

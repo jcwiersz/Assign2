@@ -1,0 +1,35 @@
+commit ba0a95c49db1957cc95bea4f4c219309f613f0c7
+Author: Jacob Wierszewski <jcwiersz@oakland.edu>
+Date:   Sun Jan 31 16:17:04 2016 -0500
+
+    Added Class Ninety_Nine_Bottles... class to BeerSong.java
+
+commit b92a45cd07c1652c768e0627124a1ae2b36c8cbb
+Author: Jacob Wierszewski <jcwiersz@oakland.edu>
+Date:   Sun Jan 31 16:09:44 2016 -0500
+
+    Altered BeerSong.java for proper coding etiquette indenting
+
+commit af2d400ad4ac043e583d7628ab8ab61a48908dae
+Author: Jacob Wierszewski <jcwiersz@oakland.edu>
+Date:   Sun Jan 31 15:59:38 2016 -0500
+
+    Added the Implementation Branch and entered code into BeerSong.java
+
+commit b3018c06af4e611b6d781aff452677e4e7d620e7
+Author: Jacob Wierszewski <jcwiersz@oakland.edu>
+Date:   Sun Jan 31 15:56:46 2016 -0500
+
+    Created BeerSong.java
+
+commit 25cb5b77805bcb20b1922a41f7c91ef8cb18d0b5
+Author: Jacob Wierszewski <jcwiersz@oakland.edu>
+Date:   Sun Jan 31 15:52:57 2016 -0500
+
+    Added .gitignore file
+
+commit 9e9ba999b438e1d56447de60f16c4463366d0259
+Author: Jacob Wierszewski <jcwiersz@oakland.edu>
+Date:   Sun Jan 31 15:51:11 2016 -0500
+
+    Initial build of Assignment2 Repository
